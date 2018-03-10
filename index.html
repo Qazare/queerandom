@@ -1,17 +1,110 @@
 <!doctype html>
-<head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="index.css">
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+                           integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+                           crossorigin="anonymous">
 
 
-  <title>Safe Space</title>
-</head>
-<body>
-  <h1>Safe Space</h1>
+    <title>Safe Space</title>
+  </head>
+  <body>
+    <h1>Safe Space</h1>
+    <div id="filters" class="container">
+      <div class="row">
+        <div class="col">
+          <input type="checkbox" id="film-tv" name="film-tv" value="film-tv" checked>
+          <label for="film-tv">Film/TV</label>
+        </div>
+        <div class="col">
+          <input type="checkbox" id="musique" name="musique" value="musique" checked>
+          <label for="musique">Musique</label>
+        </div>
+        <div class="col">
+          <input type="checkbox" id="podcast" name="podcast" value="podcast" checked>
+          <label for="podcast">Podcast</label>
+        </div>
+        <div class="col">
+          <input type="checkbox" id="personnalite" name="personnalite" value="personnalite" checked>
+          <label for="personnalite">Personnalité</label>
+        </div>
+        <div class="col">
+          <input type="checkbox" id="lien" name="lien" value="lien" checked>
+          <label for="lien">Lien</label>
+        </div>
+      </div>
+    </div>
 
-  <script
-			  src="https://code.jquery.com/jquery-3.3.1.min.js"
-			  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-			  crossorigin="anonymous"></script>
-  <script src="index.js"></script>
-</body>
+    <button id="random" class="btn-primary">Random</button>
+
+    <div id="result" class="container">
+      <div id="result-name"></div>
+      <div id="result-img"></div>
+    </div>
+    <script
+  			  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  			  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  			  crossorigin="anonymous"></script>
+
+    <script>
+      (function() {
+        // Content and functions
+        var json = (function() {
+          var json = null;
+          $.ajax({
+              'async': false,
+              'global': false,
+              'url': "collection.json",
+              'dataType': "json",
+              'success': function (data) {
+                  json = data;
+              }
+          });
+          return json;
+        })();
+        console.log(json[0]["Nom"]);
+
+        var filters = { filmtv: true,
+                        musique: true,
+                        podcast: true,
+                        personnalite: true,
+                        lien: true };
+
+        function getRandomInt(max) {
+          return Math.floor(Math.random() * Math.floor(max));
+        };
+
+        // DOM Manipulation
+
+        $('#film-tv').click(function() {
+          filters.filmtv = !filters.filmtv;
+        });
+        $('#musique').click(function() {
+          filters.musique = !filters.musique;
+        });
+        $('#podcast').click(function() {
+          filters.podcast = !filters.podcast;
+        });
+        $('#personnalite').click(function() {
+          filters.personnalite = !filters.personnalite;
+        });
+        $('#lien').click(function() {
+          filters.lien = !filters.lien;
+        });
+
+        $('#random').click(function() {
+          document.getElementById('result-name').innerHTML = "";
+          document.getElementById('result-img').innerHTML = "";
+          var num = getRandomInt(7);
+          var randomResultName = json[num]["Nom"];
+          var randomResultImg = json[num]["Image"];
+          $(`<p>${randomResultName}</p>`).appendTo('#result-name');
+          $(`<img src='${randomResultImg}' alt='${randomResultName} image'>`).appendTo('#result-img');
+        });
+      })();
+    </script>
+  </body>
+</html>
