@@ -138,13 +138,13 @@
           var randomResultDescription = json[num]["Description"];
           var randomResultLink = json[num]["Lien"];
 
-          $(`<a href='${randomResultLink}'><h2>${randomResultName}</h2></a>`).appendTo('#result-name');
+          $(`<a href='${randomResultLink}' target="_blank"><h2>${randomResultName}</h2></a>`).appendTo('#result-name');
 
           if (youtubeLinkChecker.test(randomResultImg)) {
             var videoId = randomResultImg.replace(youtubeLinkChecker, '$1');
             $(`<iframe width="560" height="315" src="https://www.youtube.com/embed/${videoId}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>`).appendTo('#result-img');
           } else {
-            $(`<a href='${randomResultLink}'><img src='${randomResultImg}' alt='${randomResultName} image'></a>`).appendTo('#result-img');
+            $(`<a href='${randomResultLink} target="_blank"'><img src='${randomResultImg}' alt='${randomResultName} image'></a>`).appendTo('#result-img');
           };
 
           $(`<p class="text-justify text-center">${randomResultDescription}</p>`).appendTo('#result-description');
