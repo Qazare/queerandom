@@ -3,7 +3,7 @@
     "Nom": "Tangerine (2015)",
     "Lien": "http://www.imdb.com/title/tt3824458/?ref_=nv_sr_1",
     "Langue": "EN",
-    "Type": "Film/TV",
+    "Type": "FilmTV",
     "Description": "Une comédie dramatique sur une travailleuse du sexe trans qui sort tout juste d’un mois en prison à Los Angeles, tourné avec un iPhone.",
     "Image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzNzY2NjYwOV5BMl5BanBnXkFtZTgwOTY1MDU1NTE@._V1_SY1000_CR0,0,678,1000_AL_.jpg"
   },
@@ -11,7 +11,7 @@
     "Nom": "My Beautiful Laundrette (1985)",
     "Lien": "http://www.imdb.com/title/tt0091578/?ref_=nv_sr_1",
     "Langue": "EN",
-    "Type": "Film/TV",
+    "Type": "FilmTV",
     "Description": "Un jeune homme d’origine pakistanaise et son copain blanc espèrent trouver le succès en ouvrant une laverie automatique dans la Grande-Bretagne de Margaret Thatcher.",
     "Image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI1NjE2ODAwOF5BMl5BanBnXkFtZTcwODU2NjE2NA@@._V1_.jpg"
   },
@@ -19,7 +19,7 @@
     "Nom": "Fucking Åmål (1998)",
     "Lien": "http://www.imdb.com/title/tt0150662/?ref_=nv_sr_1",
     "Langue": "AUTRE",
-    "Type": "Film/TV",
+    "Type": "FilmTV",
     "Description": "Deux adolescentes tombent amoureuses dans ce film suédois au grand succès à sa sortie.",
     "Image": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2NhMzRmMGYtNjA5OC00OTkzLThiN2UtZjA0ZmM2M2M0MzFlXkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_.jpg"
   },
@@ -27,7 +27,7 @@
     "Nom": "Pariah (2011)",
     "Lien": "",
     "Langue": "EN",
-    "Type": "Film/TV",
+    "Type": "FilmTV",
     "Description": "",
     "Image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1MTQyNTY3NV5BMl5BanBnXkFtZTcwODk0ODk2Ng@@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
   },
@@ -35,7 +35,7 @@
     "Nom": "Tomboy (2011)",
     "Lien": "http://www.imdb.com/title/tt1847731/?ref_=nv_sr_1",
     "Langue": "FR",
-    "Type": "Film/TV",
+    "Type": "FilmTV",
     "Description": "Lorsque sa famille déménage, Laure, 10 ans, choisit de se présenter comme Mikhaël aux enfants du quartier.",
     "Image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2MTI2OTEwNF5BMl5BanBnXkFtZTcwODUwMzc3Ng@@._V1_.jpg"
   },
@@ -43,7 +43,7 @@
     "Nom": "Les Chansons d’Amour (2007)",
     "Lien": "http://www.imdb.com/title/tt0996605/?ref_=nv_sr_2",
     "Langue": "FR",
-    "Type": "Film/TV",
+    "Type": "FilmTV",
     "Description": "Une comédie musicale autour de trois amants à Paris, dont l’équilibre est bouleversé par une mort brutale.",
     "Image": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDgwYmZmZGEtNTBkYi00YTI2LTkxNWYtZWZjNzQzZDcxNjE1XkEyXkFqcGdeQXVyMjUxOTQ5MzA@._V1_SY1000_CR0,0,739,1000_AL_.jpg"
   },
@@ -51,8 +51,512 @@
     "Nom": "Front homosexuel d’action révolutionnaire",
     "Lien": "https://fr.wikipedia.org/wiki/Front_homosexuel_d%27action_r%C3%A9volutionnaire",
     "Langue": "FR",
-    "Type": "Personnalité/Organisation",
+    "Type": "Historique",
     "Description": "Le FHAR était un mouvement parisien fondé en 1971 pour subvertir l’État bourgeois et hétéropatriarcal et mener un activisme radical.",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Front_Homosexuel_d%27Action_R%C3%A9volutionnaire_tract_1971.jpeg"
+    "Image": "https://fr.wikipedia.org/wiki/Front_homosexuel_d%27action_r%C3%A9volutionnaire#/media/File:Front_Homosexuel_d%27Action_R%C3%A9volutionnaire_tract_1971.jpeg"
+  },
+  {
+    "Nom": "Act Up-Paris",
+    "Lien": "https://fr.wikipedia.org/wiki/Act_Up-Paris",
+    "Langue": "FR",
+    "Type": "Historique",
+    "Description": "Act Up-Paris, créée en 1989 sur le modèle d’ACT UP New York, est une association de lutte contre le sida, dont les actions radicales et spectaculaires ont notamment été représentées dans le film 120 Battements par minutes (2017).",
+    "Image": "https://upload.wikimedia.org/wikipedia/fr/9/95/LogoAUP.jpg"
+  },
+  {
+    "Nom": "AIDS Memorial Quilt",
+    "Lien": "https://en.wikipedia.org/wiki/NAMES_Project_AIDS_Memorial_Quilt",
+    "Langue": "EN",
+    "Type": "Historique",
+    "Description": "Ce patchwork pesant 54 tonnes rassemble plus de 48,000 morceaux de tissus brodés et décorés en mémoire de personnes décédées des suites du sida.",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Aids_Quilt.jpg/800px-Aids_Quilt.jpg"
+  },
+  {
+    "Nom": "Stonewall",
+    "Lien": "https://fr.wikipedia.org/wiki/%C3%89meutes_de_Stonewall",
+    "Langue": "FR",
+    "Type": "Historique",
+    "Description": "Le 28 juin 1969, après une descente de police dans l’auberge de Stonewall, à New York, des émeutes éclatent entre les forces de police et les client.es, gays, lesbiennes, cis et trans. Ces événements sont considérés comme une étape importante du mouvement LGBT moderne, et sont notamment la source de la création de la gay pride.",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Stonewall_Inn_1969.jpg/220px-Stonewall_Inn_1969.jpg"
+  },
+  {
+    "Nom": "Bronski Beat",
+    "Lien": "https://www.youtube.com/watch?v=DU-yXAXz4DI",
+    "Langue": "EN",
+    "Type": "Musique",
+    "Description": "Groupe de new-wave des années 1980s, Bronski Beat, à l’identité gay revendiquée, est connu pour son grand succès Smalltown Boy, chanson à propos d’un jeune homme gay fuyant sa ville natale.",
+    "Image": "https://www.youtube.com/watch?v=DU-yXAXz4DI"
+  },
+  {
+    "Nom": "St Vincent",
+    "Lien": "https://www.youtube.com/watch?v=h9TlaYxoOO8",
+    "Langue": "EN",
+    "Type": "Musique",
+    "Description": "St. Vincent est une multi-instrumentiste et chanteuse américaine, aux influences rock, jazz et electropop à la fois.",
+    "Image": "https://www.youtube.com/watch?v=h9TlaYxoOO8"
+  },
+  {
+    "Nom": "Against Me!",
+    "Lien": "https://www.youtube.com/watch?v=3_hVmcKRKNQ",
+    "Langue": "EN",
+    "Type": "Musique",
+    "Description": "Against Me! est le groupe américain de punk rock, dont l’album Transgender Dysphoria Blues traite de la transition et du coming out de sa chanteuse Laura Jane Grace.",
+    "Image": "https://www.youtube.com/watch?v=3_hVmcKRKNQ"
+  },
+  {
+    "Nom": "Le Tigre",
+    "Lien": "https://www.youtube.com/watch?v=aqhntKPh2EY",
+    "Langue": "EN",
+    "Type": "Musique",
+    "Description": "Le Tigre est un groupe américain d’électro rock, aux paroles engagées pour les causes féministes et LGBT.",
+    "Image": "https://www.youtube.com/watch?v=aqhntKPh2EY"
+  },
+  {
+    "Nom": "Perfume Genius",
+    "Lien": "https://www.youtube.com/watch?v=Z7OSSUwPVM4",
+    "Langue": "EN",
+    "Type": "Musique",
+    "Description": "Perfume Genius est le projet d’indie pop de Mike Hadreas, dont les paroles s’intéressent notamment aux questions de sexualité et d’homophobie.",
+    "Image": "https://www.youtube.com/watch?v=Z7OSSUwPVM4"
+  },
+  {
+    "Nom": "Tracy Chapman",
+    "Lien": "https://www.youtube.com/watch?v=Q2wneBVssPc",
+    "Langue": "EN",
+    "Type": "Musique",
+    "Description": "Chanteuse et compositrice de blues-rock, Tracy Chapman est l’autrice de chansons qui ont marqué le canon musical américain comme Fast Car ou Talkin’ Bout a Revolution.",
+    "Image": "https://www.youtube.com/watch?v=Q2wneBVssPc"
+  },
+  {
+    "Nom": "Marsha P. Johnson",
+    "Lien": "https://www.youtube.com/watch?v=rjN9W2KstqE",
+    "Langue": "EN",
+    "Type": "Personnalite",
+    "Description": "La vie de Marsha P. Johnson, « trans-activiste révolutionnaire, intigatrice de Stonewall, modèle pour Andy Warhol, drag queen, travailleuse du sexe, actrice, et Sainte » est celle d’une personnalité importante dans l’histoire du mouvement LGBT moderne, et est le sujet du documentaire Pay It No Mind – The Life and Times of Marsha P. Johnson.",
+    "Image": "https://www.youtube.com/watch?v=rjN9W2KstqE"
+  },
+  {
+    "Nom": "Harvey Milk",
+    "Lien": "https://fr.wikipedia.org/wiki/Harvey_Milk",
+    "Langue": "FR",
+    "Type": "Personnalite",
+    "Description": "Premier homme ouvertement gay à être élu conseiller municipal à San Francisco, assassiné en 1978 par un autre conseiller municipal, la figure d’Harvey Milk est centrale dans l’histoire des États-Unis, et est notamment l’objet du documentaire The Times of Harvey Milk (1985).",
+    "Image": "https://liveliketom.com/wp-content/uploads/2015/05/o-HARVEY-MILK-facebook.jpg"
+  },
+  {
+    "Nom": "Radclyffe Hall",
+    "Lien": "https://fr.wikipedia.org/wiki/Radclyffe_Hall",
+    "Langue": "FR",
+    "Type": "Personnalite",
+    "Description": "Auteure du Puits de solitude (1928), roman lesbien important notamment dans l’histoire britannique, Radclyffe Hall, qui s’identifiat comme un « inverti », a été victime d’un procès pour obscénité faisant détruire toutes les copies de son roman au Royaume-Uni.",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Charles_Buchel_-_Radclyffe_Hall.jpg/220px-Charles_Buchel_-_Radclyffe_Hall.jpg"
+  },
+  {
+    "Nom": "Leslie Feinberg",
+    "Lien": "https://fr.wikipedia.org/wiki/Leslie_Feinberg",
+    "Langue": "FR",
+    "Type": "Personnalite",
+    "Description": "L’oeuvre de Leslie Feinberg, lesbienne butch trans communiste, est un jalon de l’histoire des mouvements lesbiens et trans. Son roman le plus connu est Stone Butch Blues (1993).",
+    "Image": "http://transgenderwarrior.org/images/small_selfportrait_sun.jpg"
+  },
+  {
+    "Nom": "Monique Wittig",
+    "Lien": "http://www.moniquewittig.com/accueil.html",
+    "Langue": "FR",
+    "Type": "Personnalite",
+    "Description": "Féministe matérialiste, membre clef du Mouvement de Libération des Femmes ou des Gouines Rouges, Monique Wittig est autrice d’une œuvre littéraire et théorique importante.",
+    "Image": "http://www.moniquewittig.com/photo/images/one.jpg"
+  },
+  {
+    "Nom": "Tove Jansson",
+    "Lien": "https://fr.wikipedia.org/wiki/Tove_Jansson",
+    "Langue": "FR",
+    "Type": "Personnalite",
+    "Description": "Tove Jansson est la créatrice finlandaise des Moumines, série de livres pour enfants mettant en scène Moumine le troll. Le personnage de Tooticky a été inspiré par sa compagne Tuulikki Pietilä, qui était graphiste.",
+    "Image": "https://i1.wp.com/www.popast.nu/wp-content/uploads/2009/03/20090321 .jpg"
+  },
+  {
+    "Nom": "Digital Transgender Archive",
+    "Lien": "https://www.digitaltransgenderarchive.net/",
+    "Langue": "EN",
+    "Type": "Lien",
+    "Description": "Ce site donne accès à un nombre important d’archives historiques concernant le mouvement, les personnes et les pratiques trans.",
+    "Image": "https://www.digitaltransgenderarchive.net/assets/home/home_people-177d52066d2f76ac4c1e5dffd80fd42ae1e0effc0e9a011214c92f67cd43d5bd.png"
+  },
+  {
+    "Nom": "h_e_r_s_t_o_r_y",
+    "Lien": "https://www.instagram.com/h_e_r_s_t_o_r_y/",
+    "Langue": "EN",
+    "Type": "Lien",
+    "Description": "Un projet instagram mettant en avant la culture lesbienne, principalement anglophone,  des XIX et XXe siècle.",
+    "Image": "https://scontent-cdg2-1.cdninstagram.com/vp/91bcfa1758ed65c811c6e9946f8507af/5B2D786F/t51.2885-19/s150x150/12826149_969442179812093_1831268018_a.jpg"
+  },
+  {
+    "Nom": "Archives LGBTI",
+    "Lien": "https://archiveslgbti.fr/",
+    "Langue": "FR",
+    "Type": "Lien",
+    "Description": "La France manque cruellement de centres d’archives LGBTI ; ce collectif milite pour sa création, afin que nos mémoires ne disparaissent pas.",
+    "Image": "https://archiveslgbti.fr/archives-LGBTI.png"
+  },
+  {
+    "Nom": "NYC LGBT Historic Sites Project",
+    "Lien": "https://www.instagram.com/nyclgbtsites/",
+    "Langue": "EN",
+    "Type": "Lien",
+    "Description": "Ce compte instagram documente les lieux historiques new-yorkais liés à la communauté LGBT de la ville.",
+    "Image": "https://scontent-cdg2-1.cdninstagram.com/vp/bb4d5b877c0c1c107e79de7b440a5985/5B2D263A/t51.2885-19/s150x150/13116824_263864704002710_407225360_a.jpg"
+  },
+  {
+    "Nom": "Une lettre de Vita Sackville-West à Viriginia Woolf",
+    "Lien": "https://www.theparisreview.org/blog/2016/03/09/a-thing-that-wants-virginia/",
+    "Langue": "EN",
+    "Type": "Lien",
+    "Description": "« I am reduced to a thing that wants Virginia ». Une belle lettre envoyée en 1926 par Vita Sackville-West à son amante Virginia Woolf, écrivaine parmi les plus importantes du canon littéraire moderne.",
+    "Image": "https://www.theparisreview.org/blog/wp-content/uploads/2016/03/vita_sackville-west-768x585.jpg"
+  },
+  {
+    "Nom": "Ari Fitz & Ash Hardell",
+    "Lien": "https://www.youtube.com/watch?v=jKK8MjLbdnw",
+    "Langue": "EN",
+    "Type": "Video",
+    "Description": "Une collaboration sur youtube comme il en existe tellement, qui permet de découvrir des chaînes populaires, en Ari Fitz, youtubeuse lifestyle et Ash Hardell, au contenu varié.",
+    "Image": "https://www.youtube.com/watch?v=jKK8MjLbdnw"
+  },
+  {
+    "Nom": "Adrián De La Vega",
+    "Lien": "https://www.youtube.com/watch?v=dWK3auu4sTI",
+    "Langue": "FR",
+    "Type": "Video",
+    "Description": "Adrián De La Vega est un youtubeur trans français, bien présent sur les réseaux sociaux.",
+    "Image": "https://www.youtube.com/watch?v=dWK3auu4sTI"
+  },
+  {
+    "Nom": "Les Goudous",
+    "Lien": "https://www.youtube.com/watch?v=00O4jd1tZYY",
+    "Langue": "FR",
+    "Type": "Video",
+    "Description": "Les Goudous est une websérie lesbienne humoristique et française.",
+    "Image": "https://www.youtube.com/watch?v=00O4jd1tZYY"
+  },
+  {
+    "Nom": "Gigi Gorgeous",
+    "Lien": "https://www.youtube.com/watch?v=yGlBLDJem2o",
+    "Langue": "EN",
+    "Type": "Video",
+    "Description": "Gigi Gorgeous est une youtubeuse et actrice trans et lesbienne.",
+    "Image": "https://www.youtube.com/watch?v=yGlBLDJem2o"
+  },
+  {
+    "Nom": "My Drunk Kitchen",
+    "Lien": "https://www.youtube.com/watch?v=71PwX2KnSVw",
+    "Langue": "EN",
+    "Type": "Video",
+    "Description": "Hannah Hart est une youtubeuse lesbienne connue pour ses vidéos intitulées My Drunk Kitchen.",
+    "Image": "https://www.youtube.com/watch?v=71PwX2KnSVw"
+  },
+  {
+    "Nom": "Mélange de genres (1/4) : La théorie queer",
+    "Lien": "https://www.franceculture.fr/emissions/les-nouveaux-chemins-de-la-connaissance/melange-de-genres-14-la-theorie-queer",
+    "Langue": "FR",
+    "Type": "Podcast",
+    "Description": "Cet épisode de l’émission Les Chemins de la Philosophie de France Culture s’intéresse à la théorie queer, avec l’intervention de Sam Bourcier, sociologue et militant.",
+    "Image": "https://cdn.radiofrance.fr/s3/cruiser-production/2011/09/9dc92a72-dd41-11e0-b8ee-842b2b72cd1d/738_img_2815.jpg"
+  },
+  {
+    "Nom": "Welcome To Night Vale",
+    "Lien": "http://www.welcometonightvale.com/",
+    "Langue": "EN",
+    "Type": "Podcast",
+    "Description": "Welcome To Night Vale est un podcast chroniquant la vie de la communauté fictionnelle de Night Vale, petite ville située dans un désert, où le shérif a une police secrète, un nuage lumineux menace la ville et le parc à chiens est particulièrement dangereux. Une traduction française existe pour les 23 premiers épisodes, sous le nom de Bienvenue à Valnuit.",
+    "Image": "http://www.dailymars.net/wp-content/uploads/2014/11/welcome-to-nightvale-podcast.jpg"
+  },
+  {
+    "Nom": "Alice Isn’t Dead",
+    "Lien": "http://www.nightvalepresents.com/aliceisntdead",
+    "Langue": "EN",
+    "Type": "Podcast",
+    "Description": "Un podcast sur une camionneuse à la recherche de sa femme disparue.",
+    "Image": "https://static1.squarespace.com/static/56660bf257eb8dd25948eabe/59289bb6c534a5adf8709efa/59289bbde58c62d37def8686/1496152222064/aid-logo-poster-2.png"
+  },
+  {
+    "Nom": "Queery",
+    "Lien": "https://tunein.com/radio/QUEERY-with-Cameron-Esposito-p1020369/",
+    "Langue": "EN",
+    "Type": "Podcast",
+    "Description": "Le podcast de l’humoriste Cameron Esposito, qui invite à chaque épisode des invité.es LGBTQ+ différents.",
+    "Image": "https://cdn-profiles.tunein.com/p1020369/images/logoq.jpg"
+  },
+  {
+    "Nom": "HomoMicro",
+    "Lien": "http://www.homomicro.net/wp/",
+    "Langue": "FR",
+    "Type": "Podcast",
+    "Description": "HomoMicro est l’émission de radio francophone consacrée à l’actualité de la communauté LGBT la plus ancienne et la plus écoutée.",
+    "Image": "http://www.homomicro.net/wp/wp-content/uploads/2014/12/homomicro-mistylake2.png"
+  },
+  {
+    "Nom": "Take My Wife",
+    "Lien": "http://www.imdb.com/title/tt5949986/?ref_=nv_sr_1",
+    "Langue": "EN",
+    "Type": "FilmTV",
+    "Description": "Une websérie créée par Cameron Esposito et Rhea Butcher, un couple d’humoristes qui jouent un couple d’humoriste.",
+    "Image": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjMwMWE1MjctNzk3My00NmJhLWFmNTItZDg0NWFiZjkyMDdjXkEyXkFqcGdeQXVyMzE5MDE2OA@@._V1_.jpg"
+  },
+  {
+    "Nom": "Paris Is Burning (1991)",
+    "Lien": "http://www.imdb.com/title/tt0100332/?ref_=nv_sr₁",
+    "Langue": "EN",
+    "Type": "FilmTV",
+    "Description": "Un documentaire sur la ball culture new-yorkaise des années 1980, où est née la vogue.",
+    "Image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2NTc4MjQwMV5BMl5BanBnXkFtZTcwNjg5MTAzMQ@@._V1_UY268_CR1,0,182,268_AL_.jpg"
+  },
+  {
+    "Nom": "Virginia Woolf",
+    "Lien": "https://fr.wikipedia.org/wiki/Virginia_Woolf",
+    "Langue": "FR",
+    "Type": "Personnalite",
+    "Description": "Autrice de romans importants comme Mrs Dalloway ou Orlando, ainsi que de l’essai féministe Une chambre à soi, Virginia Woolf faisait partie du Bloomsbury Group, un groupe d’artistes dont beaucoup sont aujourd’hui considérés comme personnes importantes pour l’histoire queer du Royaume-Uni.",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Virginia_Woolf_1927.jpg/220px-Virginia_Woolf_1927.jpg"
+  },
+  {
+    "Nom": "Anohni",
+    "Lien": "https://www.youtube.com/watch?v=aUEoic7ro_o",
+    "Langue": "EN",
+    "Type": "Musique",
+    "Description": "Chanteuse de Antony & the Johnsons, Anohni écrit des chansons poignantes et prenantes, aux paroles touchant à des sujets divers, dont la transidentité ou l’écologie.",
+    "Image": "https://www.youtube.com/watch?v=aUEoic7ro_o"
+  },
+  {
+    "Nom": "Lesley Gore",
+    "Lien": "https://www.youtube.com/watch?v=JDUjeR01wnU",
+    "Langue": "EN",
+    "Type": "Musique",
+    "Description": "Lesley Gore, chanteuse américaine lesbienne, est l’interprète de tubes pop sixties comme It’s My Party ou You Don’t Own Me.",
+    "Image": "https://www.youtube.com/watch?v=JDUjeR01wnU"
+  },
+  {
+    "Nom": "Mal Blum",
+    "Lien": "https://www.youtube.com/watch?v=wrFrtw9IQdg",
+    "Langue": "EN",
+    "Type": "Musique",
+    "Description": "Mal Blum, qui est non-binaire, compose et interprète des chansons d’(anti-)folk.",
+    "Image": "https://www.youtube.com/watch?v=wrFrtw9IQdg"
+  },
+  {
+    "Nom": "Alex Beaupain",
+    "Lien": "https://www.youtube.com/watch?v=Z91BLIUMgxQ",
+    "Langue": "FR",
+    "Type": "Musique",
+    "Description": "Alex Beaupain est un chanteur et compositeur bi de variété française. Il a notamment collaboré plusieurs fois avec le réalisateur Christophe Honoré (Les Chansons d’Amour, Les Bien-Aimés)",
+    "Image": "https://www.youtube.com/watch?v=Z91BLIUMgxQ"
+  },
+  {
+    "Nom": "Chavela Vargas",
+    "Lien": "https://www.youtube.com/watch?v=9KvtdCOIdWA",
+    "Langue": "AUTRE",
+    "Type": "Musique",
+    "Description": "Chavela Vargas est une des plus grandes chanteuses de musique ranchera mexicaine. Depuis ses débuts dans les années 1940, elle montait sur scène vêtue de l’habituel costume masculin des chanteurs de ranchera.",
+    "Image": "https://www.youtube.com/watch?v=9KvtdCOIdWA"
+  },
+  {
+    "Nom": "Chavela (2017)",
+    "Lien": "http://www.imdb.com/title/tt6217664/reference",
+    "Langue": "AUTRE",
+    "Type": "FilmTV",
+    "Description": "Ce documentaire retrace la vie et la carrière de la grande chanteuse de ranchera mexicaine, Chavela Vargas, et ne manque pas d’explorer son identité lesbienne.",
+    "Image": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjliNTE4NGMtOGY5Yy00Y2VmLTg5MjgtNWZkYjYzMTVjMzMwXkEyXkFqcGdeQXVyNDU0NjMyNTQ@._V1_SY150_CR0,0,101,150_.jpg"
+  },
+  {
+    "Nom": "Alison Bechdel",
+    "Lien": "https://fr.wikipedia.org/wiki/Alison_Bechdel",
+    "Langue": "FR",
+    "Type": "Personnalite",
+    "Description": "Alison Bechdel est une autrice de bande dessinée, connue notamment pour la série Lesbiennes à Suivre (Dykes to Watch Out For) et pour Fun Home, ouvrage autobiographique qui a été adapté en comédie musicale. Elle a donné son nom au « Bechdel Test », au départ issu d’une discussion de deux personnages de Lesbiennes à Suivre.",
+    "Image": "http://www.dailyserving.com/wp-content/uploads/2015/11/Bechdel-test-comic.png"
+  },
+  {
+    "Nom": "Julie Chu",
+    "Lien": "https://www.youtube.com/watch?v=Y4Jw3a6f4yw",
+    "Langue": "EN",
+    "Type": "Personnalite",
+    "Description": "Julie Chu est une joueuse de hockey sur glace américaine, et fait partie des femmes américaines les plus médaillées aux Jeux Olympiques d’Hiver. Ancienne capitaine de l’équipe de hockey américaine, elle est mariée à l’ancienne capitaine de l’équipe canadienne, avec qui elle a eu une fille en 2017.",
+    "Image": "https://pbs.twimg.com/media/DOK9nVjUQAEPMwy.jpg"
+  },
+  {
+    "Nom": "Thelma (2017)",
+    "Lien": "https://www.imdb.com/title/tt6304046/?ref_=nv_sr_1",
+    "Langue": "AUTRE",
+    "Type": "FilmTV",
+    "Description": "Thelma, jeune étudiante norvégienne, se découvre de dangereuses facultés surnaturelles alors qu’elle réprime son attirance pour son amie Anja.",
+    "Image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjk0NjI2MjM1NF5BMl5BanBnXkFtZTgwODc2NjU0MzI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+  },
+  {
+    "Nom": "Moonlight (2016)",
+    "Lien": "https://www.imdb.com/title/tt4975722/",
+    "Langue": "EN",
+    "Type": "FilmTV",
+    "Description": "Moonlight suit Chiron, un jeune homme gay afro-américain de Miami, de son enfance à l’âge adulte.",
+    "Image": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+  },
+  {
+    "Nom": "Mykki Blanco",
+    "Lien": "https://www.youtube.com/watch?v=IbPWe24jQ9A",
+    "Langue": "EN",
+    "Type": "Musique",
+    "Description": "Mykki Blanco fait partie de la scène  hip-hop queer américaine, et produit des morceaux et des clips résolument queers depuis 2012.",
+    "Image": "https://www.youtube.com/watch?v=IbPWe24jQ9A"
+  },
+  {
+    "Nom": "Quay Dash",
+    "Lien": "https://www.youtube.com/watch?v=vwmILqxn6mc",
+    "Langue": "EN",
+    "Type": "Musique",
+    "Description": "Quay Dash est une rappeuse trans américaine qui a sorti en 2017 l’EP Transphobic.",
+    "Image": "https://www.youtube.com/watch?v=vwmILqxn6mc"
+  },
+  {
+    "Nom": "Yeule",
+    "Lien": "https://www.youtube.com/watch?v=A5eXFI8TQII",
+    "Langue": "EN",
+    "Type": "Musique",
+    "Description": "Yeule, basée entre Singapour et Londres, produit depuis 2012 de la musique électronique rêveuse.",
+    "Image": "https://www.youtube.com/watch?v=A5eXFI8TQII"
+  },
+  {
+    "Nom": "Emilie Gervais",
+    "Lien": "http://emiliegervais.com/",
+    "Langue": "EN",
+    "Type": "Personnalite",
+    "Description": "Emilie Gervais est une artiste canadienne qui travaille principalement à partir d’Internet.",
+    "Image": "http://emiliegervais.com/MagicplzM0rilluminatiiiiiiiiiiiiiiiiiiiiii.gif"
+  },
+  {
+    "Nom": "Claude Cahun",
+    "Lien": "https://fr.wikipedia.org/wiki/Claude_Cahun#Son_%C5%93uvre",
+    "Langue": "FR",
+    "Type": "Personnalite",
+    "Description": "Claude Cahun était une artiste et résistante française. Son œuvre, récemment redécouverte, contient notamment de nombreux autoportraits. Son attitude face au genre ? « Masculin ? Féminin? Cela dépend de la situation. Neutre est le seul genre qui me va toujours. »",
+    "Image": "http://ichef.bbci.co.uk/wwfeatures/wm/live/1280_640/images/live/p0/3z/vr/p03zvr12.jpg"
+  },
+  {
+    "Nom": "David Hockney",
+    "Lien": "https://fr.wikipedia.org/wiki/David_Hockney",
+    "Langue": "FR",
+    "Type": "Personnalite",
+    "Description": "David Hockney est un peintre britannique, associé notamment au pop art des sixties et à l’hyperréalisme.",
+    "Image": "http://www.numero.com/sites/default/files/images/flexible_grid/100/garden_with_blue_terrace_2015_-_copie.jpg"
+  },
+  {
+    "Nom": "Shelter (2007)",
+    "Lien": "http://www.imdb.com/title/tt0942384/?ref_=nv_sr_2",
+    "Langue": "EN",
+    "Type": "FilmTV",
+    "Description": "Quand ses obligations vis-à-vis de sa famille l’empêchent d’aller à la fac, un jeune homme se rapproche par le surf du frère de son meilleur ami.",
+    "Image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMjcxMjc5MF5BMl5BanBnXkFtZTcwODAzNzc5MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+  },
+  {
+    "Nom": "Years & Years",
+    "Lien": "https://www.youtube.com/watch?v=hXTAn4ELEwM",
+    "Langue": "EN",
+    "Type": "Musique",
+    "Description": "Derrière son chanteur Olly Alexander, Years & Years propose de l’électro pop indé qui insiste pour utiliser des pronoms masculins dans ses chansons d’amour.",
+    "Image": "https://www.youtube.com/watch?v=hXTAn4ELEwM"
+  },
+  {
+    "Nom": "Gay Britannia",
+    "Lien": "http://www.bbc.co.uk/programmes/p05797th",
+    "Langue": "EN",
+    "Type": "Podcast",
+    "Description": "Pour fêter les 50 ans de la dépénalisation partielle de l’homosexualité au Royaume-Uni, la BBC a proposé à l’été 2017 une série de programmes explorant l’histoire et les mouvements LGBT du pays.",
+    "Image": "https://ichef.bbci.co.uk/images/ic/480xn/p058h2xb.jpg"
+  },
+  {
+    "Nom": "BROCKHAMPTON",
+    "Lien": "https://www.youtube.com/watch?v=n_ZRRlVDVa8",
+    "Langue": "EN",
+    "Type": "Musique",
+    "Description": "BROCKHAMPTON est le groupe de Kevin Abstract, et se décrit comme « le premier boy’s band formé sur Internet ».",
+    "Image": "https://www.youtube.com/watch?v=n_ZRRlVDVa8"
+  },
+  {
+    "Nom": "Lesbians and Gays Support the Miners",
+    "Lien": "http://lgsm.org/",
+    "Langue": "EN",
+    "Type": "Lien",
+    "Description": "Le site du groupe Lesbians and Gays Support the Miners, le sujet du film Pride (2014), qui raconte l’histoire de ces groupes de soutiens gays et lesbiens aux mineurs britanniques en grève contre Thatcher. Le site permet notamment d’en savoir plus sur le groupe Lesbians Against Pit Closures.",
+    "Image": "http://lgsm.org/images/badge-logo-trans-100.png"
+  },
+  {
+    "Nom": "Pride (2014)",
+    "Lien": "http://www.imdb.com/title/tt3169706/?ref_=nv_sr_6",
+    "Langue": "EN",
+    "Type": "FilmTV",
+    "Description": "Pride raconte, en la romançant, l’histoire du groupe Lesbians and Gays Support the Miners, formé en 1984 par des socialistes et communistes gays et lesbiens pour soutenir les mineurs alors en grève contre le gouvernement de Margaret Thatcher. Une bande-son eighties, la mode qui va avec, et des accents gallois bien prononcés : un film qui fait pleurer tout en donnant envie de militer.",
+    "Image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2OTcyOTE3MF5BMl5BanBnXkFtZTgwNTg5Mjc1MjE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+  },
+  {
+    "Nom": "Tom Robinson Band",
+    "Lien": "https://www.youtube.com/watch?v=Ojnv3fegkfM",
+    "Langue": "EN",
+    "Type": "Musique",
+    "Description": "Groupe de punk rock britannique, le Tom Robinson Band est notamment l’auteur de Glad to Be Gay, chanson attaquant l’homophobie de sa société et aujourd’hui hymne gay britannique.",
+    "Image": "https://www.youtube.com/watch?v=Ojnv3fegkfM"
+  },
+  {
+    "Nom": "One Mississippi",
+    "Lien": "http://www.imdb.com/title/tt4947608/?ref_=nv_sr_1",
+    "Langue": "EN",
+    "Type": "FilmTV",
+    "Description": "One Mississippi est une série semi-autobiographique suivant l’humoriste Tig Notaro, qui retourne dans sa ville d’origine après le décès de sa mère.",
+    "Image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5NjMxNjcyNV5BMl5BanBnXkFtZTgwODU0NDYxMzI@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
+  },
+  {
+    "Nom": "Queer Nation Manifesto",
+    "Lien": "https://infokiosques.net/lire.php?id_article=808",
+    "Langue": "FR",
+    "Type": "Lien",
+    "Description": "Queer Nation était un groupe d’action direct new yorkais fondé en 1990. Son manifeste est un moment important de l’émergence d’un mouvement « queer » et de l’utilisation militante du terme lui-même. Le texte est ici traduit en français.",
+    "Image": "https://infokiosques.net/IMG/arton808.jpg"
+  },
+  {
+    "Nom": "Déclaration du Combahee River Collective",
+    "Lien": "http://journals.openedition.org/cedref/415",
+    "Langue": "FR",
+    "Type": "Lien",
+    "Description": "Le Combahee River Collective était un groupe féministe lesbien radical dont la déclaration de 1977 est considérée comme un acte fondateur du Black feminism. Le texte est ici traduit en français.",
+    "Image": "https://images-na.ssl-images-amazon.com/images/I/51xnq7EeeBL._SX324_BO1,204,203,200_.jpg"
+  },
+  {
+    "Nom": "Rhea Butcher",
+    "Lien": "https://www.youtube.com/watch?v=KYac3oZLBG8",
+    "Langue": "EN",
+    "Type": "Video",
+    "Description": "Humoriste, Rhea Butcher utilise le stand-up pour parler de son identité de genre, entre autres blagues sur le groupe Tool et questions capillaires.",
+    "Image": "https://www.youtube.com/watch?v=KYac3oZLBG8"
+  },
+  {
+    "Nom": "Seule La Terre (2017)",
+    "Lien": "http://www.imdb.com/title/tt5635086/?ref_=nv_sr_1",
+    "Langue": "EN",
+    "Type": "FilmTV",
+    "Description": "Dans le Yorkshire du nord de l’Angleterre, Seule la Terre (God’s Own Country) raconte la rencontre entre un jeune fermier peu aimable et un travailleur saisonnier roumain venu aider la ferme à mettre à bas ses agneaux.",
+    "Image": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjRhYzk2NDAtYzA1Mi00MmNmLWE1ZjQtMDBhZmUyMTdjZjBiXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UX182_CR0,0,182,268_AL_.jpg"
+  },
+  {
+    "Nom": "Young M.A",
+    "Lien": "https://www.youtube.com/watch?v=gVf_4Ns3qLU",
+    "Langue": "EN",
+    "Type": "Musique",
+    "Description": "Young M.A est une jeune rappeuse de Brooklyn aux paroles ouvertement lesbiennes.",
+    "Image": "https://www.youtube.com/watch?v=gVf_4Ns3qLU"
+  },
+  {
+    "Nom": "BI Women",
+    "Lien": "https://iiif.lib.harvard.edu/manifests/view/drs:54102719%244i",
+    "Langue": "EN",
+    "Type": "Historique",
+    "Description": "BI Women est la newsletter du Boston Bisexual Women’s Network, dont la formation en 1983 est un moment important dans la formation politique de l’identité bisexuelle.",
+    "Image": "https://78.media.tumblr.com/4fe3260867af50de6342c6d288edafbf/tumblr_nc9uk7XPit1qhbv64o1_500.jpg"
   }
 ]
